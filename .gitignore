@@ -1,0 +1,18 @@
+# Python / venv
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Streamlit & local data
+chroma_db/
+index_state.json
+unreadable_books.json
+
+# User book library (private)
+books/*
+!books/.gitkeep
+
+# Logs / misc
+logs/
+*.log

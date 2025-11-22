@@ -1,0 +1,39 @@
+# Dharma Story App
+
+**Author:** Bhairava~i  
+**License:** Proprietary – All Rights Reserved
+
+## Overview
+
+Dharma Story App is a private project that:
+- Reads PDF/EPUB books from a local `books/` folder
+- Indexes them into a Chroma vector database
+- Lets the user ask questions in a chat interface
+- Answers in **story mode** from Hindu texts:
+  - Version 1: Simple, short story for children
+  - Version 2: Deeper, devotional story for older children / adults
+- Optionally generates **cartoon illustrations** in ACK-like or claymation style.
+
+All answers are based only on the uploaded books (no internet browsing).
+
+## Features
+
+- 📚 Reads multiple books (PDF / EPUB) in different languages  
+- 🔎 Vector search over your library using OpenAI embeddings  
+- 🧠 Story Mode:
+  - Version 1 – Simple Story for Children (short, easy language)
+  - Version 2 – Devotional Story for Older Children and Adults (more depth)
+- 🖼 Optional cartoon image generation (Amar Chitra Katha inspired or clay-style)
+- 🧱 Automatic indexing script (`prepare_data.py`)
+- 🔁 Optional auto-indexer (`auto_indexer.py`) to watch the `books/` folder
+
+## Local Setup
+
+```bash
+git clone https://github.com/<your-username>/dharma-story-app.git
+cd dharma-story-app
+
+python3 -m venv venv
+source venv/bin/activate  # On macOS / Linux
+
+pip install -r requirements.txt

@@ -1,0 +1,39 @@
+{
+  "mantra": [
+    {
+      "text": "Namah Shivaya",
+      "source": "manual-guidance",
+      "deity": "Shiva",
+      "age_group": "both",
+      "level": 1
+    },
+    {
+      "text": "Namah Shivaya\nchanting this mantra every day by sitting in a meditation and chant 108 times",
+      "source": "manual-guidance",
+      "deity": "Shiva",
+      "age_group": "both",
+      "level": 1
+    },
+    {
+      "text": "hare krishna hare krishna krishna krishna hare hare \nhare rama Hare rama rama rama hare hare",
+      "source": "manual-guidance",
+      "deity": "krishna",
+      "age_group": "both",
+      "level": 1
+    },
+    {
+      "source": "manual-guidance",
+      "mantra_text": "om kali maha kali",
+      "text": "",
+      "deity": "kali",
+      "age_group": "adult",
+      "level": 1
+    }
+  ],
+  "meditation": [
+    {
+      "text": "be as gradual as described above. Some people are able to stop thoughts, and control their mind very quickly. It depends on how determined or intent you are. It only takes a few minutes of having no thoughts for the mind to be stilled forever.\n\n\nThere are many diseases known to mankind — AIDS, cancer, malaria, leprosy, etc. The seriousness of the disease has varied through the ages, depending on whether mankind has found a cure for it. One of the worst diseases is the disease of uncontrolled thinking. Even the medical profession now admits that our thoughts can affect our health. Thoughts of anxiety, hatred, fear, violence, greed, impact our health in a negative way. On the other hand, thoughts of love, mercy, joy, happiness, affect our health in a positive way. Uncontrolled thinking can b ...",
+      "source": "/Users/arvindjonnalagadda/IdeaProjects/dharma_app/books/Vigyan_Bhairava_Tantra_-_Ranjit_Chaudhri.epub"
+    }
+  ]
+}
